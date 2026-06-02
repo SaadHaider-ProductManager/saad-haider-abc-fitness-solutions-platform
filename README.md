@@ -1,4 +1,4 @@
-# 💪 ABC Fitness Solutions Platform
+# ABC Fitness Solutions Platform
 
 > **Product Owner:** Muhammad Saad Haider · **Tenure:** Feb 2020 – Oct 2021 · **Location:** Dallas, TX
 > SaaS · Class Booking · Operator Portal · O2C Payments · Mixpanel Analytics · VOC Research
